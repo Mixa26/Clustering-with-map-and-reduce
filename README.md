@@ -9,7 +9,7 @@ The results with:<br>
 ![2Clusters](https://github.com/Mixa26/Clustering-with-map-and-reduce/assets/71144280/6ae17d3e-c125-4dc0-ad77-d9beb5090b4f)
 <br>
 ### 4 clusters
-![4Clusters](https://github.com/Mixa26/Clustering-with-map-and-reduce/assets/71144280/782bce10-ec2c-4e94-b554-e95995084edd)
+![4Clusters](https://github.com/Mixa26/Clustering-with-map-and-reduce/assets/71144280/0770818a-aace-4a5c-b7d7-397c2ed46f1c)
 <br>
 ### 6 clusters
 ![6Clusters](https://github.com/Mixa26/Clustering-with-map-and-reduce/assets/71144280/83b5f90b-f9d2-4c5f-85ec-95dbd0a15f40)
