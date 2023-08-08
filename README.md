@@ -6,13 +6,13 @@ The best way to run this would be to put it into google colab and run cells one 
 The results with:<br>
 <br>
 ### 2 clusters
-![2Clusters](https://github.com/Mixa26/Clustering-with-map-and-reduce/assets/71144280/6ae17d3e-c125-4dc0-ad77-d9beb5090b4f)
+![2Clusters](pictures/2Clusters.jpg)
 <br>
 ### 4 clusters
-![4Clusters](https://github.com/Mixa26/Clustering-with-map-and-reduce/assets/71144280/0770818a-aace-4a5c-b7d7-397c2ed46f1c)
+![4Clusters](pictures/4Clusters.jpg)
 <br>
 ### 6 clusters
-![6Clusters](https://github.com/Mixa26/Clustering-with-map-and-reduce/assets/71144280/83b5f90b-f9d2-4c5f-85ec-95dbd0a15f40)
+![6Clusters](pictures/6Clusters.jpg)
 <br>
 ### 10 clusters
-![10Clusters](https://github.com/Mixa26/Clustering-with-map-and-reduce/assets/71144280/b5bf5dbe-3831-40a3-b805-dbb0eff098b9)
+![10Clusters](pictures/10Clusters.jpg)
